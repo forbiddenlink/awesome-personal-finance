@@ -33,6 +33,7 @@
 
 ### Courses
 
+- [Finance Quest](https://financequest.fyi/) - A money course in 18 chapters with 62 calculators that run on your own numbers. The calculators and chapters 1 to 3 need no account, chapters 4 to 18 are paid, and figures are US-only.
 - [Investment Vehicles, Insurance, and Retirement](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial) - A course by Khan Acadameny that describes mutual funds, ETFs, retirement accounts, life insurance and hedge funds.
 - [Personal Finance](https://itunes.apple.com/us/course/personal-finance/id549538984) - A course by Missouri State University that assumes zero financial knowledge.
 
